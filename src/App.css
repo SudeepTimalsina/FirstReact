@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.formContainer {
+  margin-top: 20px;
+}
+
+.listContainer {
+  margin-top: 20px;
+}
+
+.labelReorder {
+  width: 100%;
+  text-align: left;
+}
+
+.withButton {
+  width: 100%;
+}
